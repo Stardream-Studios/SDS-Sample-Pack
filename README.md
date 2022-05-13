@@ -1,7 +1,7 @@
-# 星梦工作室采样包<br/>Stardream Studios Sample Pack
+# 星梦音频采样包<br/>Stardream Audio Sample Pack
 
-成员贡献的采样集。<br/>
-Member Contributed Sample Set.
+成员贡献和录制的采样集。<br/>
+Member Contributed and Recorded Sample Set.
 
 ## 规则：<br/>Rules:<br/>
 
